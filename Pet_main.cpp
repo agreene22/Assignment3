@@ -1,6 +1,6 @@
 /*
 Anna Greene
-Pet main file to run methods
+Pet main program creates two pets and runs the pet functions
  */
 #include "Pet.h"
 

@@ -1,6 +1,7 @@
 /*
 Anna Greene
 Pet.cpp file
+Defines functions for the Pet class
  */
 
 #include "Pet.h"

@@ -1,7 +1,7 @@
 /*
 Anna Greene
 Pet.h
-Header file
+Header file to declare methods
  */
 #include <iostream>
 #include <string>
